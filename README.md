@@ -1,9 +1,9 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;" align="left">
+<table>
+  <tr >
+    <td align="left">
       <img src="./Images/LogoMagios.jpg" alt="Logo" width="80">
     </td>
-    <td style="border: none;">
+    <td>
       <h1>Stonecutters</h1>
     </td>
   </tr>
