@@ -14,7 +14,6 @@
 Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde documentamos nuestro aprendizaje práctico y evolución en tecnologías cloud de Microsoft Azure.
 
 <br>
-
 ## 🚀 Nuestra Misión
 🎓 Dominar los conceptos de AZ-104 (Azure Administrator) y AZ-400 (Azure DevOps Engineer)
 
@@ -27,7 +26,6 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 ☁️ Convertirnos en expertos en tecnologías Cloud
 
 <br>
-
 ## 🛠️ Tecnologías en Foco
 | Área | Tecnologías |
 |------|-------------|
@@ -38,7 +36,6 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 | **Seguridad** | Azure Security Center, Identity Management |
 
 <br>
-
 ## 📚 Metodología de Aprendizaje
 ### Aprendizaje Práctico
 
@@ -51,13 +48,11 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 ✅ Colaboración y code review entre compañeros
 
 <br>
-
 ## Enfoque por Etapas
 1. Fundamentos - Conceptos básicos y laboratorios guiados
 2. Profundización - Escenarios complejos y troubleshooting
 3. Maestría - Diseño de arquitecturas y optimización
 
 <br>
-
 ## 🎖️ Nuestro Compromiso
 "La maestría no llega por accidente, sino por la práctica deliberada y consistente. Cada laboratorio, cada error, cada éxito nos acerca a la excelencia en Cloud."
