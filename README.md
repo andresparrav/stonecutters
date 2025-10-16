@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="./Images/LogoMagios.jpg" alt="logo" width="80">
-  <h1 style="margin: 0;">Stonecutters</h1>
+<div>
+  <img src="./Images/LogoMagios.jpg" alt="logo" width="80" style="display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline-block; vertical-align: middle; margin: 0; margin-left: 20px;">Stonecutters</h1>
 </div>
