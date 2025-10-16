@@ -4,7 +4,7 @@
       <img src="./Images/LogoMagios.jpg" alt="Logo" width="80">
     </td>
     <td style="border: none;">
-      <h1 style="margin: 0;">Stonecutters</h1>
+      <h1>Stonecutters</h1>
     </td>
   </tr>
 </table>
