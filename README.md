@@ -22,7 +22,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 🔄 Implementar pipelines CI/CD con Azure DevOps y GitHub  
 ☁️ Convertirnos en expertos en tecnologías Cloud
 
----
+<hr style="border: none; border-top: 0.5px solid #e1e4e8; margin: 18px 0;">
 
 
 ## 🛠️ Tecnologías en Foco
