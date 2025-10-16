@@ -22,7 +22,7 @@ ___
 🔄 Implementar pipelines CI/CD con Azure DevOps y GitHub  
 ☁️ Convertirnos en expertos en tecnologías Cloud
 
-<hr style="height: 1px; border: none; background-color: #e1e4e8; margin: 16px 0;">
+<div style="height: 1px; background: linear-gradient(to right, transparent, #e1e4e8, transparent); margin: 18px 0;"></div>
 
 
 ## 🛠️ Tecnologías en Foco
