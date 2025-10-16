@@ -10,10 +10,8 @@
 </table>
 
 
-
-
-# 🎯 Objetivo del Repositorio `#0078d4`
-Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde documentamos nuestro aprendizaje práctico y evolución en tecnologías cloud de Microsoft Azure  `#0078d4`.
+# 🎯 Objetivo del Repositorio
+Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde documentamos nuestro aprendizaje práctico y evolución en tecnologías cloud de Microsoft Azure.
 
 
 ## 🚀 Nuestra Misión
