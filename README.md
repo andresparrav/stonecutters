@@ -10,6 +10,6 @@
 </table>
 
 <div>
-  <img src="./Images/LogoMagios.jpg" alt="logo" width="80" style="display: inline-block; vertical-align: middle;">
-  <h1 style="display: inline-block; vertical-align: middle; margin: 0; margin-left: 20px;">Stonecutters</h1>
+  <img src="./Images/LogoMagics.jpg" alt="logo" width="80" style="float: left;">
+  <h1 style="margin: 0; padding-left: 100px; line-height: 80px;">Stonecutters</h1>
 </div>
