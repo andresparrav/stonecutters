@@ -8,6 +8,8 @@
     </td>
   </tr>
 </table>
+<br>
+
 
 # 🎯 Objetivo del Repositorio
 
@@ -15,7 +17,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 <br>
 
 
-##Nuestra Misión
+## Nuestra Misión
 🎓 Dominar los conceptos de AZ-104 (Azure Administrator) y AZ-400 (Azure DevOps Engineer)
 
 ⚡ Adquirir habilidades prácticas mediante laboratorios hands-on
