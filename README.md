@@ -1,4 +1,4 @@
-<table style="border: none; border-collapse: collapse;>
+<table style="border: none; border-collapse: collapse;">
   <tr style="border: none;>
     <td style="border: none;>
       <h1>Stonecutters</h1>
