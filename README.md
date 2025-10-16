@@ -26,7 +26,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 ## 🛠️ Tecnologías en Foco
 | Área | Tecnologías |
 |------|-------------|
-| **Infraestructura** | Azure Resource Manager, Terraform, Azure CLI |
+| **Infraestructura** | PowerShell, Bash, Terraform, Azure CLI |
 | **Administración** | AZ-104 Concepts, Monitoring, Security, Networking |
 | **DevOps** | AZ-400, Azure Pipelines, GitHub Actions, CI/CD |
 | **Contenedores** | Azure Kubernetes Service, Docker |
