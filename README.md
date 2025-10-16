@@ -12,7 +12,7 @@
 
 # 🎯 Objetivo del Repositorio
 Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde documentamos nuestro aprendizaje práctico y evolución en tecnologías cloud de Microsoft Azure.
-
+***
 
 ## 🚀 Nuestra Misión
 
@@ -21,6 +21,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 ⚡ Automatizar infraestructura con Terraform  
 🔄 Implementar pipelines CI/CD con Azure DevOps y GitHub  
 ☁️ Convertirnos en expertos en tecnologías Cloud
+***
 
 
 ## 🛠️ Tecnologías en Foco
@@ -31,24 +32,24 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 | **DevOps** | AZ-400, Azure Pipelines, GitHub Actions, CI/CD |
 | **Contenedores** | Azure Kubernetes Service, Docker |
 | **Seguridad** | Azure Security Center, Identity Management |
+***
 
 
 ## 📚 Metodología de Aprendizaje
 ### Aprendizaje Práctico
 
-✅ Laboratorios hands-on con escenarios reales
-
-✅ Documentación de procesos y mejores prácticas
-
-✅ Repetición hasta alcanzar maestría
-
+✅ Laboratorios hands-on con escenarios reales  
+✅ Documentación de procesos y mejores prácticas  
+✅ Repetición hasta alcanzar maestría  
 ✅ Colaboración y code review entre compañeros
+***
 
 
 ## Enfoque por Etapas
 1. Fundamentos - Conceptos básicos y laboratorios guiados
 2. Profundización - Escenarios complejos y troubleshooting
 3. Maestría - Diseño de arquitecturas y optimización
+***
 
 
 ## 🎖️ Nuestro Compromiso
