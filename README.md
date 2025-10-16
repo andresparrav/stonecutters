@@ -10,8 +10,8 @@
 </table>
 
 
-<table>
-  <tr>
+<table style="border: none; border-collapse: collapse;>
+  <tr style="border: none;>
     <td>
       <h1>Stonecutters</h1>
     </td>
