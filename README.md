@@ -15,7 +15,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 
 <br>
 
-## Nuestra Misión
+## 🚀 Nuestra Misión
 🎓 Dominar los conceptos de AZ-104 (Azure Administrator) y AZ-400 (Azure DevOps Engineer)
 
 ⚡ Adquirir habilidades prácticas mediante laboratorios hands-on
@@ -63,11 +63,3 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 
 ## 🎖️ Nuestro Compromiso
 "La maestría no llega por accidente, sino por la práctica deliberada y consistente. Cada laboratorio, cada error, cada éxito nos acerca a la excelencia en Cloud."
-
-    ☁️  
-   /🏃‍♂️\  
-  | 0  0 |  AZ-104  
-  |  👅  |  AZ-400  
-   \___/  
-   /   \  
-📚     💻  
