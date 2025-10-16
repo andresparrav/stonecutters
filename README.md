@@ -43,9 +43,13 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 ### Aprendizaje Práctico
 
 ✅ Laboratorios hands-on con escenarios reales
+
 ✅ Documentación de procesos y mejores prácticas
+
 ✅ Repetición hasta alcanzar maestría
+
 ✅ Colaboración y code review entre compañeros
+
 <br>
 
 
