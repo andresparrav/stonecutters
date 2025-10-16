@@ -15,14 +15,11 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 
 
 ## 🚀 Nuestra Misión
-🎓 Dominar los conceptos de AZ-104 (Azure Administrator) y AZ-400 (Azure DevOps Engineer)
 
-⚡ Adquirir habilidades prácticas mediante laboratorios hands-on
-
-🔧 Automatizar infraestructura con Terraform
-
-🔄 Implementar pipelines CI/CD con Azure DevOps y GitHub
-
+🎓 Dominar los conceptos de AZ-104 (Azure Administrator) y AZ-400 (Azure DevOps Engineer)  
+🔧 Adquirir habilidades prácticas mediante laboratorios hands-on  
+⚡ Automatizar infraestructura con Terraform  
+🔄 Implementar pipelines CI/CD con Azure DevOps y GitHub  
 ☁️ Convertirnos en expertos en tecnologías Cloud
 
 
