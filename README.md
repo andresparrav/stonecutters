@@ -9,10 +9,10 @@
   </tr>
 </table>
 
-```
+
 # 🎯 Objetivo del Repositorio
 Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde documentamos nuestro aprendizaje práctico y evolución en tecnologías cloud de Microsoft Azure.
-```
+
 
 ## 🚀 Nuestra Misión
 
