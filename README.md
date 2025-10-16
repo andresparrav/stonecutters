@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-<div>
-  <img src="./Images/LogoMagics.jpg" alt="logo" width="80" style="float: left;">
-  <h1 style="margin: 0; padding-left: 100px; line-height: 80px;">Stonecutters</h1>
+<div style="display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+  <img src="./Images/LogoMagios.jpg" alt="logo" width="80">
+  <h1 style="margin: 0;">Stonecutters</h1>
 </div>
