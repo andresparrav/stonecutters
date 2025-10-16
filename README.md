@@ -49,7 +49,7 @@ Este repositorio representa nuestro camino hacia la excelencia en Cloud, donde d
 1. Fundamentos - Conceptos básicos y laboratorios guiados
 2. Profundización - Escenarios complejos y troubleshooting
 3. Maestría - Diseño de arquitecturas y optimización
-___
+<hr>
 
 
 ## 🎖️ Nuestro Compromiso
