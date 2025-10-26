@@ -27,13 +27,11 @@ az ad sp create-for-rbac --name pzTerraform --role="Contributor" --scopes="/subs
 # {
 #   "appId": "15fa78d8-7806-4d27-978d-8a9b7922d0ab",
 #   "displayName": "pzTerraform",
-#   "password": "B6w8Q~JPWmX65lQ0G0R4~WrDSQIz4-2q_aNzUbme",
 #   "tenant": "877b2d19-c5a4-4326-8e3d-b9bf32f6c2fe"
 # }
 
 # Set environment variables for Terraform authentication
 $Env:ARM_CLIENT_ID = "15fa78d8-7806-4d27-978d-8a9b7922d0ab"
-$Env:ARM_CLIENT_SECRET = "B6w8Q~JPWmX65lQ0G0R4~WrDSQIz4-2q_aNzUbme"
 $Env:ARM_SUBSCRIPTION_ID = "45c0820c-add4-4b9a-bc72-db6b8141ce97"
 $Env:ARM_TENANT_ID = "877b2d19-c5a4-4326-8e3d-b9bf32f6c2fe"
 
