@@ -52,9 +52,11 @@ terraform show
 terraform output
 terraform apply -auto-approve -var "" 
 
+terraform plan -out vm.out
+time terraform destroy -auto-approve
+
 # Generate SSH key pair for VM access
 ssh-keygen -t rsa -b 4096 -C "azure-lab-rsa" -f $env:USERPROFILE\.ssh\azure_lab_rsa
-
 
 # Get your public IP address in CIDR notation
 $myIp = (Invoke-RestMethod -Uri "https://api.ipify.org?format=json").ip; "$myIp/32"
@@ -64,3 +66,5 @@ Remove-Item Env:\ARM_CLIENT_ID
 Remove-Item Env:\ARM_CLIENT_SECRET
 Remove-Item Env:\ARM_SUBSCRIPTION_ID
 Remove-Item Env:\ARM_TENANT_ID
+
+
