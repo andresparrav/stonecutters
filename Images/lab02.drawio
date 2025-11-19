@@ -22,10 +22,10 @@
         <mxCell id="d3FkKGj3TjyrSg0Zaa_H-1" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_visual_studio;" value="" vertex="1">
           <mxGeometry height="59" width="53" x="70" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="d3FkKGj3TjyrSg0Zaa_H-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="" vertex="1">
+        <mxCell id="d3FkKGj3TjyrSg0Zaa_H-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="Pipeline&lt;div&gt;lab02-azure-pipelines.yml&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="414" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="d3FkKGj3TjyrSg0Zaa_H-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="" vertex="1">
+        <mxCell id="d3FkKGj3TjyrSg0Zaa_H-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="lab02-destroy.yml" vertex="1">
           <mxGeometry height="50" width="50" x="414" y="480" as="geometry" />
         </mxCell>
         <mxCell id="d3FkKGj3TjyrSg0Zaa_H-4" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" value="" vertex="1">
