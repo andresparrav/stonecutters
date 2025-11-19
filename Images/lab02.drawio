@@ -134,9 +134,6 @@
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-34" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" value="" vertex="1">
           <mxGeometry height="61" width="61.91" x="408" y="816" as="geometry" />
         </mxCell>
-        <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-42" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="31" x="118" y="210" as="geometry" />
-        </mxCell>
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-43" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Security.svg;" value="" vertex="1">
           <mxGeometry height="68" width="56.720000000000006" x="630" y="480" as="geometry" />
         </mxCell>
