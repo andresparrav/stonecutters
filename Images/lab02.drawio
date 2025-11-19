@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
   <diagram name="Página-1" id="5jhHdyH2zyV8RamJ64jb">
-    <mxGraphModel dx="2218" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #0e1926)" math="0" shadow="0">
+    <mxGraphModel dx="1566" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #0e1926)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,13 +131,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-33" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evil_Icons_User_Interface-2617/basket-588.svg" value="" vertex="1">
-          <mxGeometry height="64" width="64" x="497" y="912" as="geometry" />
+          <mxGeometry height="64" width="64" x="498" y="912" as="geometry" />
         </mxCell>
-        <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-36" edge="1" parent="1" source="Jsk9qU_NU9Wwsp2xe9CK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Jsk9qU_NU9Wwsp2xe9CK-33" value="">
+        <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-36" edge="1" parent="1" source="Jsk9qU_NU9Wwsp2xe9CK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="Jsk9qU_NU9Wwsp2xe9CK-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-34" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" value="" vertex="1">
-          <mxGeometry height="61" width="61.91" x="498" y="811" as="geometry" />
+          <mxGeometry height="61" width="61.91" x="499" y="811" as="geometry" />
         </mxCell>
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-45" edge="1" parent="1" style="endArrow=open;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;startArrow=open;startFill=0;endFill=0;" target="Jsk9qU_NU9Wwsp2xe9CK-38" value="Authentication&lt;br&gt;SPN">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -208,7 +208,8 @@
           <mxGeometry height="80" width="80" x="490" y="629" as="geometry" />
         </mxCell>
         <mxCell id="Jsk9qU_NU9Wwsp2xe9CK-61" edge="1" parent="1" source="Jsk9qU_NU9Wwsp2xe9CK-63" style="endArrow=open;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#008a00;strokeColor=#005700;startArrow=open;startFill=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Jsk9qU_NU9Wwsp2xe9CK-38" value="Authentication&lt;br&gt;SPN">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1653" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="535" y="138" />
             </Array>
