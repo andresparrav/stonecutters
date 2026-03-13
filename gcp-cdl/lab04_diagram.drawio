@@ -195,12 +195,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W8NQ6m5I0ocrF1WJa0Uu" name="diagram">
-    <mxGraphModel dx="1612" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bi9FQJqdG10tYNPzPk85-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="840" width="1040" x="280" y="80" as="geometry" />
+          <mxGeometry height="920" width="1040" x="280" y="80" as="geometry" />
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-9" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=light-dark(#000000,#B3B3B3);gradientColor=none;shadow=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F3E5F5;opacity=30;" value="Infrastructure&lt;br&gt;System / &lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 255, 102));&quot;&gt;VPC Shared Main&amp;nbsp;&lt;/font&gt;&lt;/b&gt;/ Hub" vertex="1">
           <mxGeometry height="640" width="920" x="360" y="200" as="geometry" />
@@ -369,6 +369,18 @@
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-86" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#6666FF);" target="bi9FQJqdG10tYNPzPk85-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9FQJqdG10tYNPzPk85-88" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=default;" value="Tags" vertex="1">
+          <mxGeometry height="120" width="140" x="290" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9FQJqdG10tYNPzPk85-89" parent="bi9FQJqdG10tYNPzPk85-88" style="text;strokeColor=none;fillColor=light-dark(#FFFFFF,#E6FFCC);align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;opacity=20;fontFamily=Helvetica;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Tag:&amp;nbsp;&lt;/span&gt;&lt;code data-path-to-node=&quot;4,0,0&quot; data-index-in-node=&quot;60&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;api-to-db&lt;br&gt;&lt;/code&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9FQJqdG10tYNPzPk85-90" parent="bi9FQJqdG10tYNPzPk85-88" style="text;strokeColor=none;fillColor=light-dark(#FFFFFF,#E6FFCC);align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;opacity=20;fontFamily=Helvetica;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;code data-path-to-node=&quot;4,0,0&quot; data-index-in-node=&quot;60&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Tag:&amp;nbsp;&lt;code data-path-to-node=&quot;4,1,0&quot; data-index-in-node=&quot;43&quot;&gt;allow-ssh-iap&lt;/code&gt;&lt;/font&gt;&lt;/code&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9FQJqdG10tYNPzPk85-91" parent="bi9FQJqdG10tYNPzPk85-88" style="text;strokeColor=none;fillColor=light-dark(#FFFFFF,#E6FFCC);align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;opacity=20;fontFamily=Helvetica;" value="Others" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
