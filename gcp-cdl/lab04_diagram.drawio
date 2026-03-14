@@ -195,7 +195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W8NQ6m5I0ocrF1WJa0Uu" name="diagram">
-    <mxGraphModel dx="1015" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,7 @@
         <mxCell id="bi9FQJqdG10tYNPzPk85-68" parent="bi9FQJqdG10tYNPzPk85-70" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;span style=&quot;color: rgb(106, 106, 106); text-align: left; text-wrap-mode: nowrap;&quot;&gt;Identity-Aware&lt;/span&gt;&lt;br style=&quot;color: rgb(106, 106, 106); text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(106, 106, 106); text-align: left; text-wrap-mode: nowrap;&quot;&gt;Proxy&lt;/span&gt;" vertex="1">
           <mxGeometry height="16.288370130736386" width="78.1117278424351" y="26.54162986926359" as="geometry" />
         </mxCell>
-        <mxCell id="bi9FQJqdG10tYNPzPk85-72" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bi9FQJqdG10tYNPzPk85-67">
+        <mxCell id="bi9FQJqdG10tYNPzPk85-72" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;fillColor=#cce5ff;strokeColor=light-dark(#000000,#7EA6E0);" target="bi9FQJqdG10tYNPzPk85-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-71" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/User_Settings.svg;" value="" vertex="1">
