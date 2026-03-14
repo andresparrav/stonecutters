@@ -195,7 +195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W8NQ6m5I0ocrF1WJa0Uu" name="diagram">
-    <mxGraphModel dx="1442" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,9 +219,6 @@
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-11" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=default;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;opacity=60;dashPattern=1 4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 255, 102));&quot;&gt;Backend&lt;/font&gt; / Spoke" vertex="1">
           <mxGeometry height="230" width="360" x="880" y="569.41" as="geometry" />
-        </mxCell>
-        <mxCell id="bi9FQJqdG10tYNPzPk85-16" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#EA6B66);" target="bi9FQJqdG10tYNPzPk85-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-17" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#EA6B66);" target="bi9FQJqdG10tYNPzPk85-11">
           <mxGeometry relative="1" as="geometry" />
@@ -383,6 +380,9 @@
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-91" parent="bi9FQJqdG10tYNPzPk85-88" style="text;strokeColor=none;fillColor=light-dark(#FFFFFF,#E6FFCC);align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;opacity=20;fontFamily=Helvetica;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Others&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9FQJqdG10tYNPzPk85-16" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#EA6B66);" target="bi9FQJqdG10tYNPzPk85-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
