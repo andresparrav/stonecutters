@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="3">
   <diagram name="services" id="Qgrnpj2zTo5U1Xw0n9vN">
     <mxGraphModel dx="761" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,8 +194,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="W8NQ6m5I0ocrF1WJa0Uu" name="diagram">
-    <mxGraphModel dx="1713" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="W8NQ6m5I0ocrF1WJa0Uu" name="network">
+    <mxGraphModel dx="1521" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,6 +383,23 @@
         </mxCell>
         <mxCell id="bi9FQJqdG10tYNPzPk85-16" edge="1" parent="1" source="bi9FQJqdG10tYNPzPk85-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#EA6B66);" target="bi9FQJqdG10tYNPzPk85-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9F2j9zh0jrMHpYcjDC7N" name="logic">
+    <mxGraphModel dx="1521" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OdOVd_cQyzulGNusxO7F-1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OdOVd_cQyzulGNusxO7F-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="100" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OdOVd_cQyzulGNusxO7F-6" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,UklGRjwEAABXRUJQVlA4TC8EAAAvK8FKEE+gqG0byNL4jT+RvU4aRNo2FTr/4BKOCDUwTv+CCsjgxVRFtkHdDrfD9fiigG6aaSYAWf7pwrbfqVnQkJxQHARt2ybmD3vbTyEiJqCbgmXW9SsxkmS7bc64l8BATOAKCYAXAV45/6iEh8978PpvR/R/AuS6ti23zUbggSzz/D5AwPuBC3/Bq6w2HeU+AKFe1E05qvfsH04q3nsyBxH9nwD7qfxVlI8UhRSFIgouSrgmhGtCFYUUhRSFSRSKKOGaEK4JVRSqKKQopCgUUXBRwjUhXBOqKKQopChMolBECdeEcE2oolBFIUUhRaGIgosSrgnhmlBFIUUhRWEShSJKuCaEa0IVhbcoTKJ8+fXq4/rWfKK75wCYHujwGgHlcd57DOEPs/cgCH+UnYdBfZLugfB+jrtjKORT3C0eC/kMHxePhvIIB48n/AH2HhDhw916SMRo7zwo6lj9GBY50t3R4yLH+bh4ZJRhDh4bPsjeowsf4tbDI3yAnSdA7a97CmRvd8ckyL7uFs+CqaePi+dB6ejgmYR3s/dUCO9k58lQ++ieDrWHu2NC5H13i2dE3vVx8ZwoNx08q/Bb9p4W4TfcemLEdTtPjXpV9+TIa+6O6ZFXfFw8P8oFB1eAcmrvGoSf2PtarARD+KGdr4YeDfVI9xWxiYZs3R1XRYuG3LtbfF20aJg+fVx8bdRo+PTB12dFE6xogolCF4UmCk0UqihUUaxoghVN6KKwEYUmCk0UqihWNMGKJpgodFFootBEoYpCFcWKJljRhC4KG1FootBEoYpiRROsaIIVTeii0EShicKVKFRRrGiCvdHkm7/boUqPaBoCoMUzj4TYoplHgqzBnBFmCeVEnFYCeSFSK2HcEGuPYhqCocUwjYTbIphHwrTr73AVwBmBvL3+DnV1J0KhNNZ5sGeCCd+zdR7qhWgI37NtpC3xEL5n2zjTEBG1Ycso00hIZMOWMeaRoMiGvYY4G8Jiatg8wIl4D1Aa69zdC6GF79k6d3ZDbITv2dbXNERHbdjS0zQSHu+GLf3MIwmQDfvo5owUyIa9OjmRBKWxzl08k0b4nq1zBy/kQfiebfdtyYRo2HbXNORCbdhyzzSSDNmw5Y55JB2yYa8bzkiI0rD5shMpURrrfNELSYXv2TpfckNWhO/ZdsV2yIvasOXcNJIY74YtZ+aR1MiGfZw4IzmyYa9DJ9KjNNb5wDMChO/ZOjdeUIDwPdv2tmhANGz7tBtUoDa+tfeRopCiUEShiBKuCeGaUEXhLQopCv/9939ZFFG6KGxEoYlCE4UqihVNsKIJJgpdFJooNFGoolBFsaIJVjShi8JGFJooNFGooljRBCuaYKLQRaGJQhOFKgpFFCuaYEUTuig0UWiicCUKVRQrmmBFE7oodFFootBEoYpCEcWKJljRhC7Kz3EA;" value="" vertex="1">
+          <mxGeometry height="300" width="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
